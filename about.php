@@ -73,7 +73,7 @@
 <section class="reviews">
 
     <div class="swiper reviews-slider">
-        
+
         <div class="swiper-wrapper">
 
             <div class="swiper-slider slide">
@@ -84,7 +84,7 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                 </div>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt voluptatibus dolorum totam. Explicabo, temporibus dolorem itaque quam perspiciatis, delectus consectetur id totam quae similique nesciunt optio veritatis laborum. Officiis, sapiente.
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod beatae eius animi odio veritatis praesentium fuga harum, voluptas dignissimos? Accusamus reprehenderit ullam consequuntur numquam minima, facere minus molestias eaque nihil quidem non suscipit repellendus et ducimus vero, placeat saepe laborum?
                 </p>
                 <h3>john apple</h3>
                 <span>traveler</span>
@@ -101,7 +101,7 @@
                 </div>
                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod beatae eius animi odio veritatis praesentium fuga harum, voluptas dignissimos? Accusamus reprehenderit ullam consequuntur numquam minima, facere minus molestias eaque nihil quidem non suscipit repellendus et ducimus vero, placeat saepe laborum?
                 </p>
-                <h3>john apple</h3>
+                <h3>Kelvin Dunlap</h3>
                 <span>traveler</span>
                 <img src="images/pic2.jpg" alt="">
             </div>
@@ -114,9 +114,9 @@
                     <i class="fas fa-star"></i>
                     <!-- <i class="fas fa-star"></i> -->
                 </div>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt voluptatibus dolorum totam. Explicabo, temporibus dolorem itaque quam perspiciatis, delectus consectetur id totam quae similique nesciunt optio veritatis laborum. Officiis, sapiente.
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod beatae eius animi odio veritatis praesentium fuga harum, voluptas dignissimos? Accusamus reprehenderit ullam consequuntur numquam minima, facere minus molestias eaque nihil quidem non suscipit repellendus et ducimus vero, placeat saepe laborum?
                 </p>
-                <h3>john apple</h3>
+                <h3>Marco Suarez</h3>
                 <span>traveler</span>
                 <img src="images/pic3.jpg" alt="">
             </div>
@@ -129,9 +129,9 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                 </div>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, doloribus nostrum quisquam dolor vel exercitationem.
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod beatae eius animi odio veritatis praesentium fuga harum, voluptas dignissimos? Accusamus reprehenderit ullam consequuntur numquam minima, facere minus molestias eaque nihil quidem non suscipit repellendus et ducimus vero, placeat saepe laborum?
                 </p>
-                <h3>john apple</h3>
+                <h3>Bryce Mosley</h3>
                 <span>traveler</span>
                 <img src="images/pic4.jpg" alt="">
             </div>
@@ -144,9 +144,9 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                 </div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus blanditiis eveniet nostrum, in quas dolorem sunt animi praesentium cumque repudiandae cupiditate nulla ullam molestias harum consectetur est ut magnam provident odio reiciendis ad repellendus. Dolore, dolorem impedit!
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod beatae eius animi odio veritatis praesentium fuga harum, voluptas dignissimos? Accusamus reprehenderit ullam consequuntur numquam minima, facere minus molestias eaque nihil quidem non suscipit repellendus et ducimus vero, placeat saepe laborum?
                 </p>
-                <h3>john apple</h3>
+                <h3>Steve Jacobs</h3>
                 <span>traveler</span>
                 <img src="images/pic5.jpg" alt="">
             </div>
@@ -159,9 +159,9 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                 </div>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, doloribus nostrum quisquam dolor vel exercitationem.
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod beatae eius animi odio veritatis praesentium fuga harum, voluptas dignissimos? Accusamus reprehenderit ullam consequuntur numquam minima, facere minus molestias eaque nihil quidem non suscipit repellendus et ducimus vero, placeat saepe laborum?
                 </p>
-                <h3>john apple</h3>
+                <h3>Lane Page</h3>
                 <span>traveler</span>
                 <img src="images/pic6.jpg" alt="">
             </div>

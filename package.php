@@ -201,6 +201,8 @@
 
 
     </div>
+
+    <div class="load-more"><span class="btn">load more</span></div>
 </section>
 <!-- packages section ends -->
 
