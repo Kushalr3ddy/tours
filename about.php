@@ -38,6 +38,149 @@
 
 </div>
 
+<!-- about section starts -->
+
+<section class="about">
+    <div class="image">
+        <img src="images/about-img.jpg" alt="">
+    </div>
+    <div class="content">
+        <h3>why choose us?</h3>
+        <p>Our team of travel experts has extensive knowledge and experience in planning travel itineraries, so you can trust us to provide you with the best recommendations and advice.
+        </p>
+        <p>Personalized service: We understand that every traveler has unique needs and preferences. That's why we offer personalized travel planning services to ensure that your trip is tailored to your specific requirements.
+        </p>
+        <div class="icons-container">
+            <div class="icons">
+                <i class="fas fa-map"></i>
+                    <span>top destinations</span>
+            </div>
+            <div class="icons">
+                <i class="fas fa-hand-holding-usd"></i>
+                    <span>affordable price</span>
+            </div>
+            <div class="icons">
+                <i class="fas fa-headset"></i>
+                    <span>24/7 guide service</span>
+            </div>
+        </div>
+    </div>
+
+</section>
+<!-- about section ends -->
+
+<!-- review section starts -->
+<section class="reviews">
+
+    <div class="swiper reviews-slider">
+        
+        <div class="swiper-wrapper">
+
+            <div class="swiper-slider slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt voluptatibus dolorum totam. Explicabo, temporibus dolorem itaque quam perspiciatis, delectus consectetur id totam quae similique nesciunt optio veritatis laborum. Officiis, sapiente.
+                </p>
+                <h3>john apple</h3>
+                <span>traveler</span>
+                <img src="images/pic1.jpg" alt="">
+            </div>
+
+            <div class="swiper-slider slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod beatae eius animi odio veritatis praesentium fuga harum, voluptas dignissimos? Accusamus reprehenderit ullam consequuntur numquam minima, facere minus molestias eaque nihil quidem non suscipit repellendus et ducimus vero, placeat saepe laborum?
+                </p>
+                <h3>john apple</h3>
+                <span>traveler</span>
+                <img src="images/pic2.jpg" alt="">
+            </div>
+
+            <div class="swiper-slider slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <!-- <i class="fas fa-star"></i> -->
+                </div>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt voluptatibus dolorum totam. Explicabo, temporibus dolorem itaque quam perspiciatis, delectus consectetur id totam quae similique nesciunt optio veritatis laborum. Officiis, sapiente.
+                </p>
+                <h3>john apple</h3>
+                <span>traveler</span>
+                <img src="images/pic3.jpg" alt="">
+            </div>
+
+            <div class="swiper-slider slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, doloribus nostrum quisquam dolor vel exercitationem.
+                </p>
+                <h3>john apple</h3>
+                <span>traveler</span>
+                <img src="images/pic4.jpg" alt="">
+            </div>
+
+            <div class="swiper-slider slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus blanditiis eveniet nostrum, in quas dolorem sunt animi praesentium cumque repudiandae cupiditate nulla ullam molestias harum consectetur est ut magnam provident odio reiciendis ad repellendus. Dolore, dolorem impedit!
+                </p>
+                <h3>john apple</h3>
+                <span>traveler</span>
+                <img src="images/pic5.jpg" alt="">
+            </div>
+
+            <div class="swiper-slider slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, doloribus nostrum quisquam dolor vel exercitationem.
+                </p>
+                <h3>john apple</h3>
+                <span>traveler</span>
+                <img src="images/pic6.jpg" alt="">
+            </div>
+            
+
+        </div>
+    </div>
+</section>
+<!-- review section ends -->
+
+
+
+
+
+
+
+
+
+
 <!-- footer srat -->
 <section class="footer">
     <div class="box-container">
