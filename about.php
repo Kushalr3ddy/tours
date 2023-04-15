@@ -211,10 +211,10 @@
 
         <div class="box">
             <h3>follow us</h3>
-            <a href="#" ><i class="fas fa-facebook"></i>facebook</a>
-            <a href="#" ><i class="fas fa-twitter"></i>twitter</a>
-            <a href="#" ><i class="fas fa-instagram"></i>instagram</a>
-            <a href="#" ><i class="fas fa-instagram"></i>instagram</a>
+            <a href="#" ><i class="fab fa-facebook"></i>facebook</a>
+            <a href="#" ><i class="fab fa-twitter"></i>twitter</a>
+            <a href="#" ><i class="fab fa-instagram"></i>instagram</a>
+            <a href="#" ><i class="fab fa-instagram"></i>instagram</a>
             
             
         </div>
