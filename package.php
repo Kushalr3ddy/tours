@@ -44,10 +44,10 @@
     <div class="box-container">
         <div class="box">
             <div class="image">
-                <img src="images/img-1.jpg" alt="">
+                <img src="images/img1.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure & tour</h3>
+                <h3>france</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, ullam aliquam excepturi quasi dolorem, voluptas beatae laboriosam earum corporis architecto quia? Illum veniam perferendis molestiae quod et exercitationem atque autem.
                 </p>
                 <a href="book.php" class="btn">book now</a>
@@ -56,10 +56,10 @@
 
         <div class="box">
             <div class="image">
-                <img src="images/img-2.jpg" alt="">
+                <img src="images/img2.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure & tour</h3>
+                <h3>spain</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, ullam aliquam excepturi quasi dolorem, voluptas beatae laboriosam earum corporis architecto quia? Illum veniam perferendis molestiae quod et exercitationem atque autem.
                 </p>
                 <a href="book.php" class="btn">book now</a>
@@ -68,10 +68,10 @@
 
         <div class="box">
             <div class="image">
-                <img src="images/img-3.jpg" alt="">
+                <img src="images/img3.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure & tour</h3>
+                <h3>singapore</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, ullam aliquam excepturi quasi dolorem, voluptas beatae laboriosam earum corporis architecto quia? Illum veniam perferendis molestiae quod et exercitationem atque autem.
                 </p>
                 <a href="book.php" class="btn">book now</a>
@@ -80,10 +80,10 @@
 
         <div class="box">
             <div class="image">
-                <img src="images/img-4.jpg" alt="">
+                <img src="images/img4.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure & tour</h3>
+                <h3>thailand</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, ullam aliquam excepturi quasi dolorem, voluptas beatae laboriosam earum corporis architecto quia? Illum veniam perferendis molestiae quod et exercitationem atque autem.
                 </p>
                 <a href="book.php" class="btn">book now</a>
@@ -92,10 +92,10 @@
 
         <div class="box">
             <div class="image">
-                <img src="images/img-5.jpg" alt="">
+                <img src="images/img5.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure & tour</h3>
+                <h3>italy</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, ullam aliquam excepturi quasi dolorem, voluptas beatae laboriosam earum corporis architecto quia? Illum veniam perferendis molestiae quod et exercitationem atque autem.
                 </p>
                 <a href="book.php" class="btn">book now</a>
@@ -104,10 +104,10 @@
 
         <div class="box">
             <div class="image">
-                <img src="images/img-6.jpg" alt="">
+                <img src="images/img6.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure & tour</h3>
+                <h3>USA</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, ullam aliquam excepturi quasi dolorem, voluptas beatae laboriosam earum corporis architecto quia? Illum veniam perferendis molestiae quod et exercitationem atque autem.
                 </p>
                 <a href="book.php" class="btn">book now</a>
@@ -116,10 +116,10 @@
 
         <div class="box">
             <div class="image">
-                <img src="images/img-7.jpg" alt="">
+                <img src="images/img7.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure & tour</h3>
+                <h3>turkey</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, ullam aliquam excepturi quasi dolorem, voluptas beatae laboriosam earum corporis architecto quia? Illum veniam perferendis molestiae quod et exercitationem atque autem.
                 </p>
                 <a href="book.php" class="btn">book now</a>
@@ -128,10 +128,10 @@
 
         <div class="box">
             <div class="image">
-                <img src="images/img-8.jpg" alt="">
+                <img src="images/img8.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure & tour</h3>
+                <h3>maldives</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, ullam aliquam excepturi quasi dolorem, voluptas beatae laboriosam earum corporis architecto quia? Illum veniam perferendis molestiae quod et exercitationem atque autem.
                 </p>
                 <a href="book.php" class="btn">book now</a>
@@ -140,10 +140,10 @@
 
         <div class="box">
             <div class="image">
-                <img src="images/img-8.jpg" alt="">
+                <img src="images/img9.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure & tour</h3>
+                <h3>mexico</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, ullam aliquam excepturi quasi dolorem, voluptas beatae laboriosam earum corporis architecto quia? Illum veniam perferendis molestiae quod et exercitationem atque autem.
                 </p>
                 <a href="book.php" class="btn">book now</a>
@@ -152,10 +152,10 @@
 
         <div class="box">
             <div class="image">
-                <img src="images/img-9.jpg" alt="">
+                <img src="images/img10.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure & tour</h3>
+                <h3>japan</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, ullam aliquam excepturi quasi dolorem, voluptas beatae laboriosam earum corporis architecto quia? Illum veniam perferendis molestiae quod et exercitationem atque autem.
                 </p>
                 <a href="book.php" class="btn">book now</a>
@@ -164,10 +164,10 @@
 
         <div class="box">
             <div class="image">
-                <img src="images/img-10.jpg" alt="">
+                <img src="images/img11.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure & tour</h3>
+                <h3>greece</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, ullam aliquam excepturi quasi dolorem, voluptas beatae laboriosam earum corporis architecto quia? Illum veniam perferendis molestiae quod et exercitationem atque autem.
                 </p>
                 <a href="book.php" class="btn">book now</a>
@@ -176,10 +176,10 @@
 
         <div class="box">
             <div class="image">
-                <img src="images/img-11.jpg" alt="">
+                <img src="images/img12.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure & tour</h3>
+                <h3>united kingdom</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, ullam aliquam excepturi quasi dolorem, voluptas beatae laboriosam earum corporis architecto quia? Illum veniam perferendis molestiae quod et exercitationem atque autem.
                 </p>
                 <a href="book.php" class="btn">book now</a>
@@ -188,10 +188,10 @@
 
         <div class="box">
             <div class="image">
-                <img src="images/img-12.jpg" alt="">
+                <img src="images/img13.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure & tour</h3>
+                <h3>sweden</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, ullam aliquam excepturi quasi dolorem, voluptas beatae laboriosam earum corporis architecto quia? Illum veniam perferendis molestiae quod et exercitationem atque autem.
                 </p>
                 <a href="book.php" class="btn">book now</a>

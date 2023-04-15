@@ -141,9 +141,9 @@ We understand that travel planning can be overwhelming, so we aim to simplify th
             </div>
             <div class="content">
                 <h3>
-                    adventure & tour
+                    france
                 </h3>
-                <p>testing testing testing testing lmao</p>
+                <p>starting at ₹2,49,999</p>
                 <a href="book.php" class="btn">book now</a>
             </div>
         </div>
@@ -154,9 +154,9 @@ We understand that travel planning can be overwhelming, so we aim to simplify th
             </div>
             <div class="content">
                 <h3>
-                    adventure & tour
+                    spain
                 </h3>
-                <p>testing testing testing testing lmao</p>
+                <p>starting at ₹2,99,999</p>
                 <a href="book.php" class="btn">book now</a>
             </div>
         </div>
@@ -167,9 +167,9 @@ We understand that travel planning can be overwhelming, so we aim to simplify th
             </div>
             <div class="content">
                 <h3>
-                    adventure & tour
+                    singapore
                 </h3>
-                <p>testing testing testing testing lmao</p>
+                <p>starting at ₹1,49,999</p>
                 <a href="book.php" class="btn">book now</a>
             </div>
         </div>
