@@ -1,3 +1,9 @@
+<?php
+session_start();
+if(isset($_SESSION['id'])&isset($_SESSION['fname'])){
+
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -247,3 +253,7 @@ We understand that travel planning can be overwhelming, so we aim to simplify th
 <script src="js/script.js"></script>
 </body>
 </html>
+<?php }else{
+    header("Location: login.php");
+    exit;
+} ?>
